@@ -1,5 +1,16 @@
 .idea
 __pycache__
 venv
+.venv/
+.wheel-test/
+
 .coverage
-htmlcov
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+dist/
+build/
+*.egg-info/
+
+.env
